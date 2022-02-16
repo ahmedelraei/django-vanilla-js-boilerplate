@@ -1,0 +1,1 @@
+# Django + Vanilla JS Boilerplate
